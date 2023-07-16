@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Project-01 : Guess the Number Game (JS-01)
 
 ## Description
@@ -9,7 +6,7 @@ Project aims to create find the number game (between 0 to 100).
 
 ## Problem Statement
 
-- Your company has recently started on a project that aims to create a find the number game. So you and your colleagues have started to work on the project.
+
 - Each time the application is opened, it will keep a random number between 1-100 in the background.
 - The user makes a guess.
 - The number is compared and guided up/down until the user guess the correct number.
@@ -33,7 +30,8 @@ Project aims to create find the number game (between 0 to 100).
 
 ## Expected Outcome
 
-![Project Snapshot](./Project.png)
+
+---![Proje Gif'i](/gif/giphy.gif)
 
 ## Objective
 
@@ -48,41 +46,5 @@ Build a Find the Number Game (Between 0 to 100)
 - JS
 
 
-### At the end of the project, students will be able to;
 
-- improve coding skills within HTML & CSS & JS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create JS code for Find the Number Game 
-
->>Part-1 HTML Structure
-
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structure of the HTML
-
->>Part-2 CSS Structure
-
-	- Set a background image or define background-color
-	- Set container background color and margin
-	- Define others color-size-padding etc...
-
->Part-3 JS Structure
-
-	- Create code for find the number between 0 to 100
-	- 
-	
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Deploy your application on Github template to showcase your app within your team.
-
-
-<p align='center'> <strong>⌛ Happy Coding  ✍</strong> </p>
 
